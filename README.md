@@ -1,3 +1,3 @@
 # BankApplication
 JavaApp
-This is a simple Bank application simulation. The gui is hard-coded using java swing components
+Simple java bank app using  SWING components
